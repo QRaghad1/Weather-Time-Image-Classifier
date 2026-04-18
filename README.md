@@ -201,7 +201,7 @@ This project demonstrates that:
 
 ---
 
-##  Authors
+##  Author
 
 * Raghad 
 ---
